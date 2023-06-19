@@ -1,0 +1,9 @@
+* calispel
+
+CSP-like channels for common lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/hawkir/calispel.git |
+| commit  | e9f2f9c                                    |
+| systems | calispel                                   |
+|---------+--------------------------------------------|
